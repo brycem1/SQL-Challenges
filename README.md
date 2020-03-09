@@ -1,2 +1,2 @@
 # SQL-Challenges
-SQL Challenges from Hackerrank
+SQL Challenges from Hackerrank.
