@@ -1,0 +1,1 @@
+SELECT RPAD('*',41-level*2,' *') FROM DUAL CONNECT BY LEVEL<=20;
