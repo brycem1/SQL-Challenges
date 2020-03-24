@@ -1,3 +1,7 @@
 # SQL-Challenges
-SQL Challenges from Hackerrank.
-https://www.hackerrank.com/skittle56
+SQL Challenges from Hackerrank with Oracle solutions.
+- basic-join
+- basic-select
+- advanced-select
+- aggregation
+- alternative-queries
